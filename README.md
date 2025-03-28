@@ -94,12 +94,3 @@ The forecasting solution will directly impact **Fossil**'s bottom line:
 
 ### **Profitability Boost**
 - An anticipated **$0.41 EPS improvement** through better inventory management and operational efficiency.
-
-
----
-
-## Installation & Setup
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/fossil-demand-forecasting.git
